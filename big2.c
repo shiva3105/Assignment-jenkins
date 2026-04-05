@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int big2 ()
+int biggest2 ()
 {
   int num1, num2;
   num1=12,num2=13;
